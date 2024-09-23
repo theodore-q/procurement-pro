@@ -33,6 +33,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@wert-io/widget-initializer": "^6.3.2",
 		"daisyui": "^4.12.10",
 		"svelte-gestures": "^5.0.4"
 	}

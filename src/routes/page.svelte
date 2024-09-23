@@ -487,27 +487,12 @@ sell NFTs your clients will love.
         <div class="flex-1 p-6">
             <h2 class="text-3xl font-bold text-gray-800 mb-6">We don’t overshare</h2>
             <div class="text-lg text-gray-700 space-y-4 mb-6">
-                <p class="font-semibold">Start for free!</p>
-                <p>We believe in a future where privacy is respected.</p>
-                <p>All out suppliers are chosen for their <strong>privacy first</strong> approach. Not only are your details kept private from your clients as standard, you have total control over how your information, transactions and money are visible to other</p>
-            </div>
-            <div class="mt-6 pl-4 border-l-4 border-gray-200">
-                <div class="flex items-center space-x-4 mb-4">
-                    <a href="https://ko-fi.com/wobbleblobbe/commissions" target="_blank">
-                        <img src="https://storage.ko-fi.com/cdn/landing_assets/creator_assets/testimonails_ava_11.png" alt="Wobbleblobbe Avatar" class="w-16 h-16 rounded-full shadow-lg">
-                    </a>
-                    <span class="text-lg text-gray-700">
-                        <strong>Wobbleblobbe</strong> is offering custom crochet vests.
-                    </span>
-                </div>
-                <a href="https://ko-fi.com/wobbleblobbe/commissions" target="_blank" class="flex items-center text-blue-600 hover:text-blue-800">
-                    <span class="font-bold">Visit</span>
-                    <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6"></path>
-                    </svg>
-                </a>
+                <p>Privacy is a Human Right and we believe in a future where privacy is respected.</p>
+                <p>The online world is slowly eroding these rights, and although GDPR and other security measures are put in place, the best way to prevent data overshare is not to share it in the first place. As we live more of our lives online, an increasing number of organisations great and small have a vested interest in creating a profile on who we are, where we go and what we do so they can influence our behaviour with greater degrees of sophistication. We reject this so we’ve built Artega to be fun, friendly and easy to use, as well as to withstand the growing pressure to spread our users details far and wide.</p>
+                <p>No organisation is an island and from our email suppliers to our accountants, we select providers who share our ideals. So, whether you’re buying a new artwork or sending us a question, your information is siloed and secure.</p>
             </div>
         </div>
+        
     </div>
 </section>
 <section class="py-12 bg-white">

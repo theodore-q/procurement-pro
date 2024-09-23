@@ -6,7 +6,7 @@
 </script>
 <div class="cal flex justify-center items-center">
     <div class="bg-white shadow-lg rounded-lg p-6 text-center w-72">
-        <h2 class="text-lg font-semibold" >Monthly Sales Calculator</h2>
+        <h2 class="text-lg font-semibold" >Figure out what your take-home could be after fees</h2>
         <div class='text-sm mb-6' >only 6% fee</div>
         
         <div class="flex flex-col space-y-4">
@@ -22,7 +22,7 @@
         </div>
         
         <div class="mt-6">
-            <p class="text-sm font-medium">You could earn</p>
+            <p class="text-sm font-medium">You could take home</p>
             <p class="text-3xl font-bold text-yellow-500 mt-2">${earnings}</p>
         </div>
     </div>
