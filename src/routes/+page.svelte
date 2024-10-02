@@ -69,19 +69,22 @@
     let accordionItems = [
         { title: 'What is Artega', content: 'Artega is a user-friendly online art gallery which allows artists to create NFTs out of their artwork. It’s a privacy-first service which protects artist and patron identities and uses trusted mainstream payment systems for a frictionless payment experience.' },
         { title: 'Who should use Artega', content: 'Artega is the perfect fit for anyone looking to make money from their creations. It’s available to anyone who can hold a stablecoin account and with the flourishing advances in AI technology, earning an income from your creativity has never been easier.' },
-        { title: 'How do I get paid?', content: 'As a privacy-first company, patrons pay for art with their credit card, debit card which is converted in USDT, an extremely stable digital currency pegged to the US Dollar (that has no ties with the US). You can hold your payment in your digital currency wallet, sell it, pay for goods out of it, or withdraw it into a traditional bank account.' },
-        { title: 'How much does it cost?', content: `Artega charges a fair 6% paid for by the patron so as a creator you take home 100% of your earnings. 
+        { title: 'How do I get paid?', content: 'As a privacy-first company, patrons pay for art with their credit card or debit card which is converted in USDT, an extremely stable digital currency pegged to the US Dollar (that has no ties with the US). You can hold your payment in your digital currency wallet, sell it, pay for goods out of it, or withdraw it into a traditional bank account.' },
+        { title: 'How much does it cost?', content: `<p>Artega charges 6% and we encourage artists to increase their prices add this to the artwork price. </p>
 
-Wallets may have their own charges for withdrawal, and you are able to select a wallet provider which suits you.` },
-        { title: 'What is USDT and stable-coin currency?', content: `USDT is United States Dollar Coin. It is a regulated digital currency which can be redeemed for United States Dollars (USD) at a 1:1 ratio. It is not issued by the US Treasury, and is maintained by Tether. 
-        Unlike better known cryptocurrency like Bitcoin, it does not fluctuate rapidly as it is not an investment currency, therefore it can be safely held within an account without volatile value change. It is however pegged to the US Dollar so will be susceptible to fluctuation with the US economy. These types of digital currencies are known as ‘stable-coin’` },
-        { title: 'Why sell my artwork as NFTs', content: `Artega allows creatives of visual artworks to diversify into the world of web3 with NFTs. It opens up new fan bases among digital collectors and as web3, ai and generative worlds develop, it allows artists to effortlessly be part of the future of virutal world. 
+Wallets may have their own charges for withdrawal, and you are able to <a class='link'>select a wallet provider which suits you.</a>` },
+        { title: 'What is USDT and stable-coin currency?', content: `USDT is United States Dollar Tether. It is a regulated digital currency which can be redeemed for United States Dollars (USD) at a 1:1 ratio. It is not issued by the US Treasury, and is maintained by <a href='https://tether.to/'>Tether</a>.
 
+<p>Unlike better known cryptocurrency like Bitcoin, it does not fluctuate rapidly as it is not an investment currency, therefore it can be safely held within an account without volatile value change. It is however pegged to the US Dollar so will be susceptible to fluctuation with the US economy. These types of digital currencies are known as ‘stable-coin’.</p>
+<a>Read more about USDT</a>
+` },
+        { title: 'Why sell my artwork as NFTs', content: `<p>Artega allows creatives of visual artworks to diversify into the world of web3 with NFTs. It opens up new fan bases among digital collectors and as web3, ai and generative worlds develop, it allows artists to effortlessly be part of the future of virutal world. 
+</p>
 Digital renditions of physical works can be created as unique artworks with our NFT minting tool allowing limited edition runs of the same artwork (as every NFT is unique) and Artega enables digital artists to receive payment for their growing fanbase with safe and trusted payment tools.` },
         { title: 'How can I get in touch?', content: 'We’re always happy to hear from you at info@arte.ga and for press enquiries to press@arte.ga' },
         { title: 'How do you keep my details private?', content: `We believe the future of the internet should be private and secure so we’ve engineered Artega with a privacy-by-design approach. We utilise two different technologies for processing artist details and patron data which ensures there’s no automated oversharing of your personal information. We can’t accidently leak anyone’s credentials, and it would be impossible for us to sell your data, even if we tried.
 
-That’s the future of the internet that we believe in, so we built it into our product by default.`},
+        <p>That’s the future of the internet that we believe in, so we built it into our product by default.</p>`},
     ];
 
 
@@ -100,7 +103,7 @@ That’s the future of the internet that we believe in, so we built it into our 
             <a href="#testimonials" class="text-primary font-bold">Testimonials</a>
             <a href="#faq" class="text-primary font-bold">FAQ</a>
             <a href="#features" class="text-primary font-bold">Features</a>
-            <a href="https://app.arte.ga/signup" class="btn btn-primary rounded-lg font-bold">Sign up free</a>
+            <a href="/" class="btn btn-primary rounded-lg font-bold">Sign up free</a>
         </div>
 
         <!-- Mobile Menu using DaisyUI Dropdown -->
@@ -116,7 +119,7 @@ That’s the future of the internet that we believe in, so we built it into our 
                 <li><a href="#testimonials">Testimonials</a></li>
                 <li><a href="#faq">FAQ</a></li>
                 <li><a href="#features">Features</a></li>
-                <li><a href="https://app.arte.ga/signup" class="btn btn-primary">Sign up free</a></li>
+                <li><a href="/" class="btn btn-primary">Sign up free</a></li>
             </ul>
         </div>
     </div>
@@ -130,7 +133,7 @@ That’s the future of the internet that we believe in, so we built it into our 
 <div class="main" role="main">
 	<section class="hero bg-gradient-to-r from-blue-100 via-purple-100 to-pink-100 px-5 py-20">
 		<div class="container mx-auto text-center">
-			<h1 class="text-5xl md:text-7xl font-extrabold text-amber-400">Level Up your career</h1>
+			<h1 class="text-5xl md:text-7xl font-extrabold text-primary">Level Up</h1>
 			<p class="mt-4 text-lg text-gray-700">
 				Join the NFT art gallery that makes it a pleasure for your patrons to pay you.
 			</p>
@@ -138,7 +141,7 @@ That’s the future of the internet that we believe in, so we built it into our 
 				<form id="sign-up-form" class="flex justify-center items-center space-x-2">
 					<span class="text-lg">arte.ga/</span>
 					<input type="text" class="input input-bordered w-full max-w-xs shadow-lg" placeholder="yourname" />
-					<a href="https://app.arte.ga/signup" class="btn btn-primary">Claim</a>
+					<a href="/" class="btn btn-primary">Wait list</a>
 				</form>
 				<p class="mt-4 text-gray-500">Your privacy-first solution</p>
 			</div>
@@ -147,6 +150,38 @@ That’s the future of the internet that we believe in, so we built it into our 
             </button> -->
 		</div>
 	</section>
+    <section class="py-20 bg-[url('/carm6h8thgbumviyp9uk-2.jpg')] bg-cover bg-center ">
+        <div class="container mx-auto">
+            <!-- Flex container for badges with responsive classes -->
+            <div class="flex flex-col md:flex-row justify-around mt-16 space-y-4 md:space-y-0 md:space-x-6 items-center">
+    
+                <!-- Badge 1: Meet the Artist -->
+                <!-- <div class="text-center badge rounded-lg px-5 py-3 badge-1">
+                    <div class="flex justify-center items-center">
+                        <i class="fa-solid fa-calendar"></i>
+                        <span class="ml-2 text-gray-700 font-bold">Meet the Artist</span>
+                    </div>
+                </div> -->
+    
+                <!-- Badge 2: Clients pay with credit/debit cards -->
+                <!-- <div class="text-center badge backdrop-blur-sm rounded-lg px-5 py-3 badge-2 badge-white/35 backdrop-brightness-110">
+                    <div class="flex justify-center items-center">
+                        <i class="fa-solid fa-credit-card"></i>
+                        <span class="ml-2 text-gray-700 font-bold">Clients pay with credit/debit cards</span>
+                    </div>
+                </div> -->
+    
+                <!-- Badge 3: No tech wizardry required -->
+                <!-- <div class="text-center badge backdrop-blur-sm rounded-lg px-5 py-3 badge-3 badge-white/35 backdrop-brightness-110">
+                    <div class="flex justify-center items-center">
+                        🧙‍♂️<span class="ml-2 font-bold">No tech wizardry required</span>
+                    </div>
+                </div> -->
+    
+            </div>
+        </div>
+    </section>
+    
 
 <!-- Features Section -->
 <section class="bg-gradient-to-r from-blue-100 via-purple-100 to-pink-100 p-1">
@@ -156,62 +191,31 @@ That’s the future of the internet that we believe in, so we built it into our 
 
 <!-- Feature 1: Meet the Artist -->
 <div class="flex flex-col items-center text-center p-4">
-    <i class="fa-solid fa-calendar w-12 h-12 mb-4 text-5xl text-gray-800"></i> <!-- Font Awesome Calendar Icon -->
+    <span class="text-5xl mb-4">👋</span>  <!-- Font Awesome Calendar Icon -->
     <h3 class="text-xl font-bold text-gray-800 mb-2">Meet the Artist</h3>
-    <p class="text-gray-600">Our latest free optional add-on - go the extra mile and get to know your supporters by allowing them to book a Meet & Greet directly into your synced calendar</p>
+    <p class="text-gray-600">Our latest free optional add-on - go the extra mile and get to know your supporters by allowing them to book a Meet & Greet directly into your synced calendar.</p>
   </div>
 
 <!-- Feature 2: Clients Pay with Credit/Debit Cards -->
 <div class="flex flex-col items-center text-center p-4">
-    <i class="fa-solid fa-credit-card w-12 h-12 mb-4 text-5xl text-gray-800"></i> <!-- Font Awesome Credit Card Icon -->
+    <span class="text-5xl mb-4">💳</span>  <!-- Font Awesome Credit Card Icon -->
     <h3 class="text-xl font-bold text-gray-800 mb-2">Easy Payment</h3>
-    <p class="text-gray-600">our patrons don’t need a crypto account to buy your artworks discreetly - they can stick it on their debit card, charge it to their credit card</p>
+    <p class="text-gray-600">Your patrons don’t need a crypto account to buy your artworks discreetly - they can stick it on their debit card or charge it to their credit card.</p>
   </div>
   
 
 <!-- Feature 3: No Tech Wizardry Required -->
 <div class="flex flex-col items-center text-center p-4">
     <span class="text-5xl mb-4">🧙‍♂️</span> <!-- Wizard Emoji Icon -->
-    <h3 class="text-xl font-bold text-gray-800 mb-2">No/Low Jargon</h3>
-    <p class="text-gray-600">We’ve stripped out the technobabble to create an easy to use, plain-speaking payment journey that won’t distract from what’s important</p>
+    <h3 class="text-xl font-bold text-gray-800 mb-2">Low Jargon</h3>
+    <p class="text-gray-600">We’ve stripped out the technobabble to create an easy to use, plain-speaking payment journey that won’t distract from what’s important.</p>
   </div>
   
 
         </div>
     </div>
 </section>
-<section class="py-20 bg-[url('/carm6h8thgbumviyp9uk-2.jpg')] bg-cover bg-center ">
-    <div class="container mx-auto">
-        <!-- Flex container for badges with responsive classes -->
-        <div class="flex flex-col md:flex-row justify-around mt-16 space-y-4 md:space-y-0 md:space-x-6 items-center">
-
-            <!-- Badge 1: Meet the Artist -->
-            <!-- <div class="text-center badge rounded-lg px-5 py-3 badge-1">
-                <div class="flex justify-center items-center">
-                    <i class="fa-solid fa-calendar"></i>
-                    <span class="ml-2 text-gray-700 font-bold">Meet the Artist</span>
-                </div>
-            </div> -->
-
-            <!-- Badge 2: Clients pay with credit/debit cards -->
-            <!-- <div class="text-center badge backdrop-blur-sm rounded-lg px-5 py-3 badge-2 badge-white/35 backdrop-brightness-110">
-                <div class="flex justify-center items-center">
-                    <i class="fa-solid fa-credit-card"></i>
-                    <span class="ml-2 text-gray-700 font-bold">Clients pay with credit/debit cards</span>
-                </div>
-            </div> -->
-
-            <!-- Badge 3: No tech wizardry required -->
-            <!-- <div class="text-center badge backdrop-blur-sm rounded-lg px-5 py-3 badge-3 badge-white/35 backdrop-brightness-110">
-                <div class="flex justify-center items-center">
-                    🧙‍♂️<span class="ml-2 font-bold">No tech wizardry required</span>
-                </div>
-            </div> -->
-
-        </div>
-    </div>
-</section>
-	<section class=" w-full mx-auto py-12 bg-gradient-to-r from-blue-100 via-purple-100 to-pink-100">
+	<section class="px-6 w-full mx-auto py-12 bg-gradient-to-r from-blue-100 via-purple-100 to-pink-100">
 		<h1 class="text-3xl font-bold text-center mb-12">Creatives love Artega</h1>
         <div class="container flex flex-wrap justify-center gap-6 m-auto">
 			<!-- Creator Card 1 -->
@@ -301,7 +305,7 @@ That’s the future of the internet that we believe in, so we built it into our 
 
 
 <!-- Testimonials Section -->
-<section id="testimonials" class="py-20 overflow-hidden bg-orange-200 relative bg-[url('/frame-bg.png')] bg-center bg-no-repeat">
+<section id="testimonials" class="px-6 py-20 overflow-hidden bg-orange-200 relative bg-[url('/frame-bg.png')] bg-center bg-no-repeat">
     <div class="container content-center grid mx-auto">
         <h2 class="text-3xl font-bold text-center mb-20">Testimonials</h2>
         <div use:swipe={{ threshold: 50 }}
@@ -357,12 +361,12 @@ That’s the future of the internet that we believe in, so we built it into our 
             <h2 class="text-3xl font-bold text-gray-800 mb-6">Patrons spend more on artists they can get to know</h2>
             <div class="text-lg text-gray-700 space-y-4 mb-6">
                 <p>We’ve just launched our Meet The Artist feature as part of our free tier. This optional extra allows you to include a Meet & Greet on some or all of your artworks, allowing you to create a closer bond with your clients.</p>
-                <p>We know you don’t need more admin so you can either set your availability manually, or sync it into your calendar - so no more back and forth trying to find a date</p>
+                <p>We know you don’t need more admin so you can either set your availability manually, or sync it into your calendar - so no more back and forth trying to find a date.</p>
             </div>
-            <a href="https://app.arte.ga/signup" class="btn btn-primary btn-wide rounded-lg">Join the community</a>
+            <a href="/" class="btn btn-primary btn-wide rounded-lg">Join the community</a>
         </div>
         <!-- Image Section -->
-        <div class="flex-1 p-6">
+        <div class="flex-1 p-10">
             <img src="./cal.png" alt="calendar" class="max-w-full rounded-lg shadow-lg shadow-hard-r">
         </div>
     </div>
@@ -384,7 +388,7 @@ That’s the future of the internet that we believe in, so we built it into our 
                 <p>Use it to sell your art while offering impecable service with our growing set of features.
                 </p>
             </div>
-            <a href="https://app.arte.ga/signup" class="btn btn-primary btn-wide rounded-lg">Get started now</a>
+            <a href="/" class="btn btn-primary btn-wide rounded-lg">Get started now</a>
         </div>
     </div>
 </section>
@@ -399,8 +403,9 @@ That’s the future of the internet that we believe in, so we built it into our 
                 <p>You don’t want to lose sales because it’s hard for people to pay you! Just like any online shop, Artega allows you to accept credit cards, debit cards</p>
                 <p>Even though you receive funds in crypto, your clients pay with traditional methods so even clients who are uncomfortable with tech can send you money easily.</p>
                 <p>We don’t stand in the middle, so you receive money instantly into your wallet as soon as the sale is made which allows you to get on with creating a stunning customer experience.</p>
+                <p><a class="link">Read our guide on choosing the best wallet for your needs.</a></p>
             </div>
-            <a href="https://app.arte.ga/signup" class="btn btn-primary btn-wide rounded-lg">Try it out</a>
+            <a href="/" class="btn btn-primary btn-wide rounded-lg">Sign up to our newsletter</a>
         </div>
         <!-- Image Section -->
         <div class="flex-1 p-6">
@@ -423,7 +428,7 @@ That’s the future of the internet that we believe in, so we built it into our 
                 <p>NFTs have a bad rep due to unnecessary jargon, reliance on pre-existing crypto wallets and inaccessible design. Artega changes all that. Patrons no longer need a degree in computing to buy your sought after NFTs. We’ve designed Artega like any other online shop - so anyone can start collecting NFT artworks.
                 </p>
                 <p>
-                    The NFT craze might be over and the crypto bubble burst, but what hasn’t changed is that web3 (a commerce based web) can offer a secure, trusted and discreet method of interacting with others that doesn’t expose your data to third parties, ever. This allows you total peace of mind when developing your artistic career in the changing online and legislative landscape.</p>
+                    The NFT craze might be over and the crypto bubble burst, but what hasn’t changed is that web3 (<a class='link'>What is Web3?</a>) can offer a secure, trusted and discreet method of interacting with others that doesn’t expose your data to third parties, ever. This allows you total peace of mind when developing your artistic career in the changing online and legislative landscape.</p>
             </div>
         </div>
     </div>
@@ -437,11 +442,11 @@ That’s the future of the internet that we believe in, so we built it into our 
             <h2 class="text-3xl font-bold text-gray-800 mb-6">Fair prices and no up-front costs or hidden charges</h2>
             <div class="text-lg text-gray-700 space-y-4 mb-6">
                 <p class="font-semibold">You can be ready to accept your first sale in less than half an hour.</p>
-                <p>We don’t penalise you for occasional sales, charge you to withdraw money (check wallet T&Cs) or gouge you if you use our platform a lot. We grow alongside you with a fair percentage (6%) of your sales which allow us to keep rolling out new features, create an even smoother patron experience and offer the highest level of privacy.</p>
+                <p>We don’t penalise you for occasional sales, charge you to withdraw money or gouge you if you use our platform a lot. We grow alongside you with a fair percentage (6%) of your sales which allow us to keep rolling out new features, create an even smoother patron experience and offer the highest level of privacy.</p>
                 <p>We want to take all the hassle out of doing what you love so you can focus on the fun stuff.</p>
                 <p>You don’t even need a bank account to start earning.</p>            
             </div>
-            <a href="https://app.arte.ga/signup" class="btn btn-primary btn-wide rounded-lg">Get started free</a>
+            <a href="/" class="btn btn-primary btn-wide rounded-lg">Get started free</a>
         </div>
         <!-- Image Section -->
         <div class="flex-1 p-6">
@@ -461,11 +466,11 @@ That’s the future of the internet that we believe in, so we built it into our 
         <div class="flex-1 p-6">
             <h2 class="text-3xl font-bold text-gray-800 mb-6">We don’t overshare</h2>
             <div class="text-lg text-gray-700 space-y-4 mb-6">
-                <p>Privacy is a Human Right and we believe in a future where privacy is respected.</p>
+                <p><a class='link'>Privacy is a Human Right</a> and we believe in a future where privacy is respected.</p>
                 <p>The online world is slowly eroding these rights, and although GDPR and other security measures are put in place, the best way to prevent data overshare is not to share it in the first place. As we live more of our lives online, an increasing number of organisations great and small have a vested interest in creating a profile on who we are, where we go and what we do so they can influence our behaviour with greater degrees of sophistication. We reject this so we’ve built Artega to be fun, friendly and easy to use, as well as to withstand the growing pressure to spread our users details far and wide.</p>
                 <p>No organisation is an island and from our email suppliers to our accountants, we select providers who share our ideals. So, whether you’re buying a new artwork or sending us a question, your information is siloed and secure.</p>
             </div>
-            <a href="https://app.arte.ga/signup" class="btn btn-primary btn-wide rounded-lg">Learn More</a>
+            <a href="/" class="btn btn-primary btn-wide rounded-lg">Learn More</a>
         </div>
     </div>
 </section>
@@ -477,21 +482,21 @@ That’s the future of the internet that we believe in, so we built it into our 
             <div class="flex flex-col items-center text-center p-4">
                 <i class="fas fa-donate w-12 h-12 mb-4 text-5xl text-gray-800"></i> <!-- Font Awesome Donate Icon -->
                 <h3 class="text-xl font-bold text-gray-800 mb-2">Get Paid Directly</h3>
-                <p class="text-gray-600">6% platform fees and no surprises. Money goes directly into your crypto wallet in USDT, a stable-coin currency which doesn’t fluctuate like other crypto.</p>
+                <p class="text-gray-600 max-w-80">6% platform fees and no surprises. Money goes directly into your crypto wallet in USDT, a stable-coin currency which doesn’t fluctuate like other crypto.</p>
             </div>
         
             <!-- Feature 2 -->
             <div class="flex flex-col items-center text-center p-4">
                 <i class="fas fa-user-friends w-12 h-12 mb-4 text-5xl text-gray-800"></i> <!-- Font Awesome Support Icon -->
                 <h3 class="text-xl font-bold text-gray-800 mb-2">Meet the artist</h3>
-                <p class="text-gray-600">You might not be able to host a private gallery viewing with an online sale, but you can host a Meet The Artist 1:1 session with the sale of your artwork. With our calendar syncing and advanced appointment scheduler, it’s easy for you to offer more to your patrons and create stronger, career spanning relationships.</p>
+                <p class="text-gray-600 max-w-80">Private gallery viewing eat your heart out: host a Meet The Artist session with each sale for the personal touch. It’s easy for you to beat your patron’s expectations with our calendar syncing and advanced appointment scheduler.</p>
             </div>
         
             <!-- Feature 3 -->
             <div class="flex flex-col items-center text-center p-4">
                 <i class="fas fa-shield-alt w-12 h-12 mb-4 text-5xl text-gray-800"></i> <!-- Font Awesome Privacy Icon -->
                 <h3 class="text-xl font-bold text-gray-800 mb-2">Privacy by default</h3>
-                <p class="text-gray-600">You choose who gets access to your information. We share nothing by default and inform you about all data sharing. From your money to your personal details, we believe in an internet which doesn’t overshare your activity by default. You don’t even need a bank account.</p>
+                <p class="text-gray-600 max-w-80">You choose who gets access to your information. We share nothing by default. From your money to your personal details, we believe in an internet which doesn’t overshare. You don’t even need a bank account.</p>
             </div>
         
             <!-- Wrapper for centering the two features -->
@@ -499,17 +504,22 @@ That’s the future of the internet that we believe in, so we built it into our 
                 <!-- Feature 4 -->
                 <div class="flex flex-col items-center text-center p-4 w-full md:w-auto">
                     <i class="fas fa-bullseye w-12 h-12 mb-4 text-5xl text-gray-800"></i> <!-- Font Awesome Goal Icon -->
-                    <h3 class="text-xl font-bold text-gray-800 mb-2">Low/No Jargon</h3>
-                    <p class="text-gray-600">We’ve cut out the technobabble so neither you nor your patrons need to call ‘Your Friend In IT’ to figure out how to take advantage of the top tier technology for privacy. It doesn’t matter if you don’t know your hodl from your DEX, you can sell NFTs and hold crypto dictionary-free.</p>
+                    <h3 class="text-xl font-bold text-gray-800 mb-2">Low Jargon</h3>
+                    <p class="text-gray-600 max-w-80">We’ve cut out the technobabble. No need for anyone to call ‘Your Friend In IT’ to figure out how to use cutting edge privacy technology. It doesn’t matter if you don’t know your hodl from your DEX, you can sell NFTs and hold crypto dictionary-free.</p>
                 </div>
         
                 <!-- Feature 5 -->
                 <div class="flex flex-col items-center text-center p-4 w-full md:w-auto">
                     <i class="fas fa-gift w-12 h-12 mb-4 text-5xl text-gray-800"></i> <!-- Font Awesome Reward Icon -->
                     <h3 class="text-xl font-bold text-gray-800 mb-2">Evolving Features</h3>
-                    <p class="text-gray-600">The world doesn’t stand still and neither do we. We’re a dedicated and passionate team who are currently working on a new set of features to reduce your admin, make your brand look even more professional as well as make those subtle changes that make using Artega even smoother. Sign up to our newsletter to see what’s happening next.</p>
+                    <p class="text-gray-600 max-w-80">The world doesn’t stand still and neither do we. We’re a dedicated and passionate team constantly working on new features - reducing your admin, levelling up your branding and making those little tweaks that make using Artega easier for everyone. </p>
                 </div>
             </div>
+            <div class='md:col-span-3 md:m-10'>
+                <a href="/" class="btn btn-primary m-auto btn-wide rounded-lg">Get started free</a>
+
+            </div>
+
         </div>
         
     </div>
@@ -528,7 +538,8 @@ That’s the future of the internet that we believe in, so we built it into our 
                         <input type="radio" name="accordion-group" checked={index === 0} />
                         <div class="collapse-title text-lg font-medium">{item.title}</div>
                         <div class="collapse-content">
-                            <p>{item.content}</p>
+                            <!-- make so it renders html -->
+                            <p>{@html item.content}</p>
                         </div>
                     </div>
                 {/each}
@@ -560,8 +571,8 @@ That’s the future of the internet that we believe in, so we built it into our 
 							class="text-blue-400">Privacy</a
 						>
 					</li>
-					<li><a href="https://arte.ga/copyright" class="text-blue-400">Copyright Policy</a></li>
-					<li><a href="https://arte.ga/shop" class="text-blue-400">Cookie Policy</a></li>
+					<li><a href="/" class="text-blue-400">Copyright Policy</a></li>
+					<li><a href="/" class="text-blue-400">Cookie Policy</a></li>
 				</ul>
 			</div>
 			<div>
@@ -569,7 +580,7 @@ That’s the future of the internet that we believe in, so we built it into our 
 				<ul>
 					<li>
 						<a
-							href="https://help.arte.ga/hc/en-us/articles/360013425618-How-to-Use-Artega-With-Twitter"
+							href="/"
 							class="text-blue-400">How we make Artega safe</a
 						>
 					</li>
