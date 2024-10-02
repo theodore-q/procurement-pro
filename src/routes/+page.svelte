@@ -400,7 +400,7 @@ Digital renditions of physical works can be created as unique artworks with our 
             <h2 class="text-3xl font-bold text-gray-800 mb-6">Making payment easy for your clients</h2>
             <div class="text-lg text-gray-700 space-y-4 mb-6">
                 <p class="font-semibold">Start for free!</p>
-                <p>You don’t want to lose sales because it’s hard for people to pay you! Just like any online shop, Artega allows you to accept credit cards, debit cards</p>
+                <p>You don’t want to lose sales because it’s hard for people to pay you! Just like any online shop, Artega allows you to accept credit cards and debit cards</p>
                 <p>Even though you receive funds in crypto, your clients pay with traditional methods so even clients who are uncomfortable with tech can send you money easily.</p>
                 <p>We don’t stand in the middle, so you receive money instantly into your wallet as soon as the sale is made which allows you to get on with creating a stunning customer experience.</p>
                 <p><a class="link">Read our guide on choosing the best wallet for your needs.</a></p>
