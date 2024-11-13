@@ -21,9 +21,41 @@
   });
 
   function openWertWidget() {
-    wertWidget.open({
+   return fetch('./api/wert_sign', {
+  method: 'POST', // Specify the HTTP method
+  headers: {
+    'Content-Type': 'application/json', // Set the content type to JSON
+    // Add any other headers you need here
+  },
+  body: JSON.stringify({
+    // Include the data you want to send in the body
+    key1: 'value1',
+    key2: 'value2',
+    // ...other key-value pairs
+  }),
+})
+  .then(response => {
+    if (!response.ok) {
+      // Handle HTTP errors
+      throw new Error('Network response was not ok ' + response.statusText);
+    }
+    return response.json(); // Parse the JSON from the response
+  })
+  .then(data => {
+    // Handle the data from the response
+    console.log('Success:', data);
+  })
+  .catch(error => {
+    // Handle any errors that occurred during the fetch
+    console.error('There was a problem with the fetch operation:', error);
+
+  });
+
+
+
+    // wertWidget.open({
         
-    });
+    // });
   }
 
     // Current active slide index
@@ -300,6 +332,40 @@ Digital renditions of physical works can be created as unique artworks with our 
 			</a>
 		</div>
 	</section>
+    <!-- <section class='px-6 w-full mx-auto py-12 bg-gradient-to-r from-rose-100 via-orange-100 to-amber-100'>
+        <h1 class="text-3xl font-bold text-center mb-12">Purchase NFTs</h1>
+        <div class='container flex flex-wrap justify-center gap-6 m-auto'>
+            <div class="card glass w-96">
+                <figure>
+                  <img
+                    src="./nft_art/1.png"
+                    alt="car!" />
+                </figure>
+                <div class="card-body">
+                  <h2 class="card-title">Promo A - ($15)</h2>
+                  <p>This promo NFT is for our early adopters and supporters.</p>
+                  <div class="card-actions justify-end">
+                    <button class="btn btn-primary" on:click={openWertWidget}>Buy now</button>
+                  </div>
+                </div>
+              </div>
+              <div class="card glass w-96">
+                <figure>
+                  <img
+                    src="./nft_art/2.png"
+                    alt="car!" />
+                </figure>
+                <div class="card-body">
+                  <h2 class="card-title">Supporter A ($45)</h2>
+                  <p>This Limited run promo A if for those who want to show their love for the Artega project.</p>
+                  <div class="card-actions justify-end">
+                    <button class="btn btn-primary" on:click={openWertWidget}>Buy now</button>
+                  </div>
+                </div>
+              </div>
+
+        </div>
+    </section> -->
 
 
 
@@ -567,12 +633,14 @@ Digital renditions of physical works can be created as unique artworks with our 
 				<ul>
 					<li>
 						<a
-							href="https://help.arte.ga/privacy"
+							href="https://artega-support.freshdesk.com/support/solutions/articles/203000003487-privacy-policy"
 							class="text-blue-400">Privacy</a
 						>
 					</li>
-					<li><a href="/" class="text-blue-400">Copyright Policy</a></li>
-					<li><a href="/" class="text-blue-400">Cookie Policy</a></li>
+					<li><a href="https://artega-support.freshdesk.com/support/solutions/articles/203000003495-website-disclaimer" class="text-blue-400">Website Disclaimer</a></li>
+					<li><a href="https://artega-support.freshdesk.com/support/solutions/articles/203000003489-cookie-policy" class="text-blue-400">Cookie Policy</a></li>
+                    <li><a href="https://artega-support.freshdesk.com/support/solutions/articles/203000003497-acceptable-use-policy" class="text-blue-400">Acceptable Use Policy</a></li>
+                    <li><a href="https://artega-support.freshdesk.com/support/solutions/articles/203000003504-terms-and-conditions" class="text-blue-400">Terms and Conditions</a></li>
 				</ul>
 			</div>
 			<div>
@@ -580,8 +648,20 @@ Digital renditions of physical works can be created as unique artworks with our 
 				<ul>
 					<li>
 						<a
-							href="/"
-							class="text-blue-400">How we make Artega safe</a
+							href="https://artega-support.freshdesk.com/support/solutions/articles/203000003498-what-is-web3-"
+							class="text-blue-400">What is web 3?</a
+						>
+					</li>
+                    <li>
+						<a
+							href="https://artega-support.freshdesk.com/support/solutions/articles/203000003499-what-is-usdt-and-why-are-we-using-it-"
+							class="text-blue-400">What is USDT?</a
+						>
+					</li>
+                    <li>
+						<a
+							href="https://artega-support.freshdesk.com/support/solutions/articles/203000003500-what-is-a-wallet-"
+							class="text-blue-400">What is a wallet?</a
 						>
 					</li>
 				</ul>
@@ -593,6 +673,7 @@ Digital renditions of physical works can be created as unique artworks with our 
 	</div>
 </footer>
 <style>
+
     .shadow-hard-r{
         box-sizing: border-box;
     /* margin: -3px; */
