@@ -332,7 +332,7 @@ Digital renditions of physical works can be created as unique artworks with our 
 			</a>
 		</div>
 	</section>
-    <!-- <section class='px-6 w-full mx-auto py-12 bg-gradient-to-r from-rose-100 via-orange-100 to-amber-100'>
+    <section class='px-6 w-full mx-auto py-12 bg-gradient-to-r from-rose-100 via-orange-100 to-amber-100'>
         <h1 class="text-3xl font-bold text-center mb-12">Purchase NFTs</h1>
         <div class='container flex flex-wrap justify-center gap-6 m-auto'>
             <div class="card glass w-96">
@@ -345,7 +345,9 @@ Digital renditions of physical works can be created as unique artworks with our 
                   <h2 class="card-title">Promo A - ($15)</h2>
                   <p>This promo NFT is for our early adopters and supporters.</p>
                   <div class="card-actions justify-end">
-                    <button class="btn btn-primary" on:click={openWertWidget}>Buy now</button>
+                    <a href='https://app.arte.ga/official-1/promo-a2'>
+                        <button class="btn btn-primary">Buy now</button>
+                    </a>
                   </div>
                 </div>
               </div>
@@ -359,13 +361,15 @@ Digital renditions of physical works can be created as unique artworks with our 
                   <h2 class="card-title">Supporter A ($45)</h2>
                   <p>This Limited run promo A if for those who want to show their love for the Artega project.</p>
                   <div class="card-actions justify-end">
-                    <button class="btn btn-primary" on:click={openWertWidget}>Buy now</button>
+                    <a href='https://app.arte.ga/official-1/promo-a1'>
+                        <button class="btn btn-primary">Buy now</button>
+                    </a>
                   </div>
                 </div>
               </div>
 
         </div>
-    </section> -->
+    </section>
 
 
 
@@ -633,14 +637,14 @@ Digital renditions of physical works can be created as unique artworks with our 
 				<ul>
 					<li>
 						<a
-							href="https://artega-support.freshdesk.com/support/solutions/articles/203000003487-privacy-policy"
+							href="https://support.arte.ga/support/solutions/articles/203000003487-privacy-policy"
 							class="text-blue-400">Privacy</a
 						>
 					</li>
-					<li><a href="https://artega-support.freshdesk.com/support/solutions/articles/203000003495-website-disclaimer" class="text-blue-400">Website Disclaimer</a></li>
-					<li><a href="https://artega-support.freshdesk.com/support/solutions/articles/203000003489-cookie-policy" class="text-blue-400">Cookie Policy</a></li>
-                    <li><a href="https://artega-support.freshdesk.com/support/solutions/articles/203000003497-acceptable-use-policy" class="text-blue-400">Acceptable Use Policy</a></li>
-                    <li><a href="https://artega-support.freshdesk.com/support/solutions/articles/203000003504-terms-and-conditions" class="text-blue-400">Terms and Conditions</a></li>
+					<li><a href="https://support.arte.ga/support/solutions/articles/203000003495-website-disclaimer" class="text-blue-400">Website Disclaimer</a></li>
+					<li><a href="https://support.arte.ga/support/solutions/articles/203000003489-cookie-policy" class="text-blue-400">Cookie Policy</a></li>
+                    <li><a href="https://support.arte.ga/support/solutions/articles/203000003497-acceptable-use-policy" class="text-blue-400">Acceptable Use Policy</a></li>
+                    <li><a href="https://support.arte.ga/support/solutions/articles/203000003504-terms-and-conditions" class="text-blue-400">Terms and Conditions</a></li>
 				</ul>
 			</div>
 			<div>
@@ -648,19 +652,19 @@ Digital renditions of physical works can be created as unique artworks with our 
 				<ul>
 					<li>
 						<a
-							href="https://artega-support.freshdesk.com/support/solutions/articles/203000003498-what-is-web3-"
+							href="https://support.arte.ga/support/solutions/articles/203000003498-what-is-web3-"
 							class="text-blue-400">What is web 3?</a
 						>
 					</li>
                     <li>
 						<a
-							href="https://artega-support.freshdesk.com/support/solutions/articles/203000003499-what-is-usdt-and-why-are-we-using-it-"
+							href="https://support.arte.ga/support/solutions/articles/203000003499-what-is-usdt-and-why-are-we-using-it-"
 							class="text-blue-400">What is USDT?</a
 						>
 					</li>
                     <li>
 						<a
-							href="https://artega-support.freshdesk.com/support/solutions/articles/203000003500-what-is-a-wallet-"
+							href="https://support.arte.ga/support/solutions/articles/203000003500-what-is-a-wallet-"
 							class="text-blue-400">What is a wallet?</a
 						>
 					</li>
