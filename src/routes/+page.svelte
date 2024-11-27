@@ -151,7 +151,7 @@ Digital renditions of physical works can be created as unique artworks with our 
                 <li><a href="#testimonials">Testimonials</a></li>
                 <li><a href="#faq">FAQ</a></li>
                 <li><a href="#features">Features</a></li>
-                <li><a href="/" class="btn btn-primary">Sign up free</a></li>
+                <li><a href="https://1a4b59e5.sibforms.com/serve/MUIFADAihpyZo5sfGFXtagaKT7vjQxC7V6zy_oG14ELwp5JAugUAI2vyEKE7LNhYZE6R9sDLHaJxHY2b30rngIEcrLIC1Q7BCJ_fOctrQIwAXeJU6OPt9xf8itvLcVrJp_ZIWeV-ON_Yq7rcWYwDuM2qv5-L78xE5xsJ-BiHKxrhRxeo-mFeyaxuSvTBc3rlSRcdefoinrLkq8Ov" class="btn btn-primary">Sign up free</a></li>
             </ul>
         </div>
     </div>
@@ -173,7 +173,7 @@ Digital renditions of physical works can be created as unique artworks with our 
 				<form id="sign-up-form" class="flex justify-center items-center space-x-2">
 					<span class="text-lg">arte.ga/</span>
 					<input type="text" class="input input-bordered w-full max-w-xs shadow-lg" placeholder="yourname" />
-					<a href="/" class="btn btn-primary">Wait list</a>
+					<a href="https://1a4b59e5.sibforms.com/serve/MUIFADAihpyZo5sfGFXtagaKT7vjQxC7V6zy_oG14ELwp5JAugUAI2vyEKE7LNhYZE6R9sDLHaJxHY2b30rngIEcrLIC1Q7BCJ_fOctrQIwAXeJU6OPt9xf8itvLcVrJp_ZIWeV-ON_Yq7rcWYwDuM2qv5-L78xE5xsJ-BiHKxrhRxeo-mFeyaxuSvTBc3rlSRcdefoinrLkq8Ov" class="btn btn-primary">Wait list</a>
 				</form>
 				<p class="mt-4 text-gray-500">Your privacy-first solution</p>
 			</div>
@@ -332,7 +332,7 @@ Digital renditions of physical works can be created as unique artworks with our 
 			</a>
 		</div>
 	</section>
-    <section class='px-6 w-full mx-auto py-12 bg-gradient-to-r from-rose-100 via-orange-100 to-amber-100'>
+    <!-- <section class='px-6 w-full mx-auto py-12 bg-gradient-to-r from-rose-100 via-orange-100 to-amber-100'>
         <h1 class="text-3xl font-bold text-center mb-12">Purchase NFTs</h1>
         <div class='container flex flex-wrap justify-center gap-6 m-auto'>
             <div class="card glass w-96">
@@ -370,7 +370,7 @@ Digital renditions of physical works can be created as unique artworks with our 
 
         </div>
     </section>
-
+ -->
 
 
 
