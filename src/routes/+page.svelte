@@ -433,7 +433,7 @@ Digital renditions of physical works can be created as unique artworks with our 
                 <p>We’ve just launched our Meet The Artist feature as part of our free tier. This optional extra allows you to include a Meet & Greet on some or all of your artworks, allowing you to create a closer bond with your clients.</p>
                 <p>We know you don’t need more admin so you can either set your availability manually, or sync it into your calendar - so no more back and forth trying to find a date.</p>
             </div>
-            <a href="/" class="btn btn-primary btn-wide rounded-lg">Join the community</a>
+            <a href="https://1a4b59e5.sibforms.com/serve/MUIFADAihpyZo5sfGFXtagaKT7vjQxC7V6zy_oG14ELwp5JAugUAI2vyEKE7LNhYZE6R9sDLHaJxHY2b30rngIEcrLIC1Q7BCJ_fOctrQIwAXeJU6OPt9xf8itvLcVrJp_ZIWeV-ON_Yq7rcWYwDuM2qv5-L78xE5xsJ-BiHKxrhRxeo-mFeyaxuSvTBc3rlSRcdefoinrLkq8Ov" class="btn btn-primary btn-wide rounded-lg">Join the community</a>
         </div>
         <!-- Image Section -->
         <div class="flex-1 p-10">
@@ -475,7 +475,7 @@ Digital renditions of physical works can be created as unique artworks with our 
                 <p>We don’t stand in the middle, so you receive money instantly into your wallet as soon as the sale is made which allows you to get on with creating a stunning customer experience.</p>
                 <p><a class="link">Read our guide on choosing the best wallet for your needs.</a></p>
             </div>
-            <a href="/" class="btn btn-primary btn-wide rounded-lg">Sign up to our newsletter</a>
+            <a href="https://1a4b59e5.sibforms.com/serve/MUIFADAihpyZo5sfGFXtagaKT7vjQxC7V6zy_oG14ELwp5JAugUAI2vyEKE7LNhYZE6R9sDLHaJxHY2b30rngIEcrLIC1Q7BCJ_fOctrQIwAXeJU6OPt9xf8itvLcVrJp_ZIWeV-ON_Yq7rcWYwDuM2qv5-L78xE5xsJ-BiHKxrhRxeo-mFeyaxuSvTBc3rlSRcdefoinrLkq8Ov" class="btn btn-primary btn-wide rounded-lg">Sign up to our newsletter</a>
         </div>
         <!-- Image Section -->
         <div class="flex-1 p-6">
@@ -516,7 +516,7 @@ Digital renditions of physical works can be created as unique artworks with our 
                 <p>We want to take all the hassle out of doing what you love so you can focus on the fun stuff.</p>
                 <p>You don’t even need a bank account to start earning.</p>            
             </div>
-            <a href="/" class="btn btn-primary btn-wide rounded-lg">Get started free</a>
+            <a href="https://1a4b59e5.sibforms.com/serve/MUIFADAihpyZo5sfGFXtagaKT7vjQxC7V6zy_oG14ELwp5JAugUAI2vyEKE7LNhYZE6R9sDLHaJxHY2b30rngIEcrLIC1Q7BCJ_fOctrQIwAXeJU6OPt9xf8itvLcVrJp_ZIWeV-ON_Yq7rcWYwDuM2qv5-L78xE5xsJ-BiHKxrhRxeo-mFeyaxuSvTBc3rlSRcdefoinrLkq8Ov" class="btn btn-primary btn-wide rounded-lg">Get started free</a>
         </div>
         <!-- Image Section -->
         <div class="flex-1 p-6">
@@ -540,7 +540,7 @@ Digital renditions of physical works can be created as unique artworks with our 
                 <p>The online world is slowly eroding these rights, and although GDPR and other security measures are put in place, the best way to prevent data overshare is not to share it in the first place. As we live more of our lives online, an increasing number of organisations great and small have a vested interest in creating a profile on who we are, where we go and what we do so they can influence our behaviour with greater degrees of sophistication. We reject this so we’ve built Artega to be fun, friendly and easy to use, as well as to withstand the growing pressure to spread our users details far and wide.</p>
                 <p>No organisation is an island and from our email suppliers to our accountants, we select providers who share our ideals. So, whether you’re buying a new artwork or sending us a question, your information is siloed and secure.</p>
             </div>
-            <a href="/" class="btn btn-primary btn-wide rounded-lg">Learn More</a>
+            <a href="https://1a4b59e5.sibforms.com/serve/MUIFADAihpyZo5sfGFXtagaKT7vjQxC7V6zy_oG14ELwp5JAugUAI2vyEKE7LNhYZE6R9sDLHaJxHY2b30rngIEcrLIC1Q7BCJ_fOctrQIwAXeJU6OPt9xf8itvLcVrJp_ZIWeV-ON_Yq7rcWYwDuM2qv5-L78xE5xsJ-BiHKxrhRxeo-mFeyaxuSvTBc3rlSRcdefoinrLkq8Ov" class="btn btn-primary btn-wide rounded-lg">Learn More</a>
         </div>
     </div>
 </section>
@@ -586,7 +586,7 @@ Digital renditions of physical works can be created as unique artworks with our 
                 </div>
             </div>
             <div class='md:col-span-3 md:m-10'>
-                <a href="/" class="btn btn-primary m-auto btn-wide rounded-lg">Get started free</a>
+                <a href="https://1a4b59e5.sibforms.com/serve/MUIFADAihpyZo5sfGFXtagaKT7vjQxC7V6zy_oG14ELwp5JAugUAI2vyEKE7LNhYZE6R9sDLHaJxHY2b30rngIEcrLIC1Q7BCJ_fOctrQIwAXeJU6OPt9xf8itvLcVrJp_ZIWeV-ON_Yq7rcWYwDuM2qv5-L78xE5xsJ-BiHKxrhRxeo-mFeyaxuSvTBc3rlSRcdefoinrLkq8Ov" class="btn btn-primary m-auto btn-wide rounded-lg">Get started free</a>
 
             </div>
 
