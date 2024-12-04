@@ -582,7 +582,7 @@ Digital renditions of physical works can be created as unique artworks with our 
 						the sale is made which allows you to get on with creating a stunning customer
 						experience.
 					</p>
-					<p><a class="link">Read our guide on choosing the best wallet for your needs.</a></p>
+					<!-- <p><a class="link">Read our guide on choosing the best wallet for your needs.</a></p> -->
 				</div>
 				<a
 					href="https://1a4b59e5.sibforms.com/serve/MUIFADAihpyZo5sfGFXtagaKT7vjQxC7V6zy_oG14ELwp5JAugUAI2vyEKE7LNhYZE6R9sDLHaJxHY2b30rngIEcrLIC1Q7BCJ_fOctrQIwAXeJU6OPt9xf8itvLcVrJp_ZIWeV-ON_Yq7rcWYwDuM2qv5-L78xE5xsJ-BiHKxrhRxeo-mFeyaxuSvTBc3rlSRcdefoinrLkq8Ov"
@@ -618,10 +618,13 @@ Digital renditions of physical works can be created as unique artworks with our 
 					</p>
 					<p>
 						The NFT craze might be over and the crypto bubble burst, but what hasn’t changed is that
-						web3 (<a class="link">What is Web3?</a>) can offer a secure, trusted and discreet method
-						of interacting with others that doesn’t expose your data to third parties, ever. This
-						allows you total peace of mind when developing your artistic career in the changing
-						online and legislative landscape.
+						web3 (<a
+							class="link"
+							href="https://artega.zendesk.com/hc/en-gb/articles/4599744151327-Understanding-Web3-The-Next-Step-in-the-Digital-World"
+							>What is Web3?</a
+						>) can offer a secure, trusted and discreet method of interacting with others that
+						doesn’t expose your data to third parties, ever. This allows you total peace of mind
+						when developing your artistic career in the changing online and legislative landscape.
 					</p>
 				</div>
 			</div>
@@ -817,31 +820,31 @@ Digital renditions of physical works can be created as unique artworks with our 
 				<ul>
 					<li>
 						<a
-							href="https://support.arte.ga/support/solutions/articles/203000003487-privacy-policy"
+							href="https://artega.zendesk.com/hc/en-gb/articles/4597956665247-Privacy-Policy"
 							class="text-blue-400">Privacy</a
 						>
 					</li>
 					<li>
 						<a
-							href="https://support.arte.ga/support/solutions/articles/203000003495-website-disclaimer"
+							href="https://artega.zendesk.com/hc/en-gb/articles/4598718166431-Website-Disclaimer"
 							class="text-blue-400">Website Disclaimer</a
 						>
 					</li>
 					<li>
 						<a
-							href="https://support.arte.ga/support/solutions/articles/203000003489-cookie-policy"
+							href="https://artega.zendesk.com/hc/en-gb/articles/4598718001951-Cookie-Notice"
 							class="text-blue-400">Cookie Policy</a
 						>
 					</li>
 					<li>
 						<a
-							href="https://support.arte.ga/support/solutions/articles/203000003497-acceptable-use-policy"
+							href="https://artega.zendesk.com/hc/en-gb/articles/4598744882207-Acceptable-Use-Policy"
 							class="text-blue-400">Acceptable Use Policy</a
 						>
 					</li>
 					<li>
 						<a
-							href="https://support.arte.ga/support/solutions/articles/203000003504-terms-and-conditions"
+							href="https://artega.zendesk.com/hc/en-gb/articles/4598757167007-Terms-and-Conditions"
 							class="text-blue-400">Terms and Conditions</a
 						>
 					</li>
@@ -852,20 +855,14 @@ Digital renditions of physical works can be created as unique artworks with our 
 				<ul>
 					<li>
 						<a
-							href="https://support.arte.ga/support/solutions/articles/203000003498-what-is-web3-"
-							class="text-blue-400">What is web 3?</a
+							href="https://artega.zendesk.com/hc/en-gb/articles/4599784600351-How-Artega-Works-And-Protects-Your-Privacy"
+							class="text-blue-400">How Artega Works</a
 						>
 					</li>
 					<li>
 						<a
-							href="https://support.arte.ga/support/solutions/articles/203000003499-what-is-usdt-and-why-are-we-using-it-"
-							class="text-blue-400">What is USDT?</a
-						>
-					</li>
-					<li>
-						<a
-							href="https://support.arte.ga/support/solutions/articles/203000003500-what-is-a-wallet-"
-							class="text-blue-400">What is a wallet?</a
+							href="https://artega.zendesk.com/hc/en-gb/articles/4599784600351-How-Artega-Works-And-Protects-Your-Privacy"
+							class="text-blue-400">How Artega Protects Your Privacy</a
 						>
 					</li>
 				</ul>
