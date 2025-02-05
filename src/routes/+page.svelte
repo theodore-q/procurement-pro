@@ -620,7 +620,7 @@ Digital renditions of physical works can be created as unique artworks with our 
 						The NFT craze might be over and the crypto bubble burst, but what hasn’t changed is that
 						web3 (<a
 							class="link"
-							href="https://artega.zendesk.com/hc/en-gb/articles/4599744151327-Understanding-Web3-The-Next-Step-in-the-Digital-World"
+							href="https://intercom.help/artega-a51c01e55129/en/articles/10512947-understanding-web3-the-next-step-in-the-digital-world"
 							>What is Web3?</a
 						>) can offer a secure, trusted and discreet method of interacting with others that
 						doesn’t expose your data to third parties, ever. This allows you total peace of mind
@@ -820,31 +820,31 @@ Digital renditions of physical works can be created as unique artworks with our 
 				<ul>
 					<li>
 						<a
-							href="https://artega.zendesk.com/hc/en-gb/articles/4597956665247-Privacy-Policy"
+							href="https://intercom.help/artega-a51c01e55129/en/articles/10512955-privacy-policy"
 							class="text-blue-400">Privacy</a
 						>
 					</li>
 					<li>
 						<a
-							href="https://artega.zendesk.com/hc/en-gb/articles/4598718166431-Website-Disclaimer"
+							href="https://intercom.help/artega-a51c01e55129/en/articles/10512950-website-disclaimer"
 							class="text-blue-400">Website Disclaimer</a
 						>
 					</li>
 					<li>
 						<a
-							href="https://artega.zendesk.com/hc/en-gb/articles/4598718001951-Cookie-Notice"
+							href="https://intercom.help/artega-a51c01e55129/en/articles/10512954-cookie-notice"
 							class="text-blue-400">Cookie Policy</a
 						>
 					</li>
 					<li>
 						<a
-							href="https://artega.zendesk.com/hc/en-gb/articles/4598744882207-Acceptable-Use-Policy"
+							href="https://intercom.help/artega-a51c01e55129/en/articles/10512948-acceptable-use-policy"
 							class="text-blue-400">Acceptable Use Policy</a
 						>
 					</li>
 					<li>
 						<a
-							href="https://artega.zendesk.com/hc/en-gb/articles/4598757167007-Terms-and-Conditions"
+							href="https://intercom.help/artega-a51c01e55129/en/articles/10512952-terms-and-conditions"
 							class="text-blue-400">Terms and Conditions</a
 						>
 					</li>
@@ -855,13 +855,13 @@ Digital renditions of physical works can be created as unique artworks with our 
 				<ul>
 					<li>
 						<a
-							href="https://artega.zendesk.com/hc/en-gb/articles/4599784600351-How-Artega-Works-And-Protects-Your-Privacy"
+							href="hhttps://intercom.help/artega-a51c01e55129/en/articles/10512964-how-artega-works-and-protects-your-privacy"
 							class="text-blue-400">How Artega Works</a
 						>
 					</li>
 					<li>
 						<a
-							href="https://artega.zendesk.com/hc/en-gb/articles/4599784600351-How-Artega-Works-And-Protects-Your-Privacy"
+							href="https://intercom.help/artega-a51c01e55129/en/articles/10512964-how-artega-works-and-protects-your-privacy"
 							class="text-blue-400">How Artega Protects Your Privacy</a
 						>
 					</li>
