@@ -19,8 +19,9 @@
   
 <!-- Header with Mobile Burger Menu -->
 <header class="bg-white shadow">
-	<nav class="container mx-auto px-4 py-6 flex justify-between items-center">
-		<div class="flex bg-[url('./logo.png')] h-8 w-56 bg-center bg-no-repeat"></div>
+	<nav class="container mx-auto px-6 py-5 flex justify-between items-center">
+		<!-- <div class="flex bg-[url(')] "></div> -->
+		<img src="logo.png" alt="procument pro logo" class="h-11 bg-center bg-no-repeat">
 		<!-- Desktop Menu -->
 		<ul class="hidden md:flex space-x-6">
 			<li><a href="#about" class="hover:text-blue-500">About</a></li>
