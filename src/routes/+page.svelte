@@ -20,7 +20,7 @@
 <!-- Header with Mobile Burger Menu -->
 <header class="bg-white shadow">
 	<nav class="container mx-auto px-4 py-6 flex justify-between items-center">
-		<div class="flex bg-[url(logo.png)] h-8 w-56 bg-center bg-no-repeat"></div>
+		<div class="flex bg-[url('./logo.png')] h-8 w-56 bg-center bg-no-repeat"></div>
 		<!-- Desktop Menu -->
 		<ul class="hidden md:flex space-x-6">
 			<li><a href="#about" class="hover:text-blue-500">About</a></li>
